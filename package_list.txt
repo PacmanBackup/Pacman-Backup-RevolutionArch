@@ -38,7 +38,6 @@ lib32-glu
 libtool
 libvirt
 licenses
-links
 linux
 linux-firmware
 linux-headers
@@ -109,11 +108,12 @@ steam
 steam-native-runtime
 sudo
 sysfsutils
+syslinux
 systemd-sysvcompat
 texinfo
 tmux
 traceroute
-transmission-qt
+transmission-gtk
 ufw
 unzip
 usbutils
