@@ -62,8 +62,6 @@ numix-circle-icon-theme-git
 numix-icon-theme-git
 p7zip
 pacaur
-pacgraph
-package-query
 pacman
 papirus-icon-theme-git
 patch
