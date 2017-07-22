@@ -1,4 +1,3 @@
-abs
 alsa-firmware
 automake
 bash-completion
