@@ -28,7 +28,6 @@ grub
 gtk-theme-arc-git
 gzip
 htop
-i7z
 inetutils
 iproute2
 iputils
