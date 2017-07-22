@@ -55,7 +55,6 @@ msr-tools
 nasm
 net-tools
 netctl
-netkit-bsd-finger
 networkmanager
 numix-circle-icon-theme-git
 numix-icon-theme-git
