@@ -59,6 +59,7 @@ netctl
 networkmanager
 numix-circle-icon-theme-git
 numix-icon-theme-git
+openssh
 p7zip
 pacaur
 pacman
