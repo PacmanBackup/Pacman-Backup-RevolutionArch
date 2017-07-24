@@ -62,7 +62,6 @@ openssh
 p7zip
 pacaur
 pacman
-palemoon-bin
 papirus-icon-theme-git
 patch
 pciutils
