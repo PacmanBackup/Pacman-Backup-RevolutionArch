@@ -103,6 +103,7 @@ vlc
 vulkan-intel
 wget
 which
+whois
 wpa_supplicant
 xf86-input-synaptics
 xf86-video-intel
