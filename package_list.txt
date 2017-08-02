@@ -28,7 +28,6 @@ grub
 gtk-theme-arc-git
 gzip
 htop
-icecat-bin
 inetutils
 iproute2
 iputils
@@ -88,7 +87,6 @@ steam
 steam-native-runtime
 sudo
 sysfsutils
-syslinux
 systemd-sysvcompat
 texinfo
 tmux
