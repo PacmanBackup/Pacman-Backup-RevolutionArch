@@ -33,7 +33,6 @@ iproute2
 iputils
 jfsutils
 lib32-glu
-libreoffice-fresh
 libtool
 libvirt
 licenses
