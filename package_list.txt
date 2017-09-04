@@ -1,4 +1,6 @@
 alsa-firmware
+aria2
+asp
 automake
 bash-completion
 binutils
@@ -20,6 +22,7 @@ gcc
 gedit
 gettext
 gnome-terminal
+go
 google-chrome-beta
 gparted
 grep
@@ -43,6 +46,7 @@ linux-tools-meta
 logrotate
 lsof
 lvm2
+lynx
 m4
 make
 man-db
