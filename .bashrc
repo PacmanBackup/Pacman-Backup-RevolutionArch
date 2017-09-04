@@ -1,4 +1,4 @@
-force_color_prompt=yes
+#force_color_prompt=yes
 
 if [ -f /etc/bashrc ]; then
 	. /etc/bashrc
