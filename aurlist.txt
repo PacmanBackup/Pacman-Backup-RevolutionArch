@@ -8,4 +8,5 @@ numix-icon-theme-git 0.r1942.8d936b293-1
 pacaur 4.7.10-1
 papirus-icon-theme-git 1:r906.c790912f7-1
 virtualbox-ext-oracle 5.1.26-1
+wat-git r25.1302640-1
 webkitgtk2 2.4.11-6
