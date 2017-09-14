@@ -10,6 +10,7 @@ cower
 cryptsetup
 device-mapper
 dhcpcd
+dmidecode
 emacs-nox
 emacs-python-mode
 fakeroot
@@ -36,12 +37,13 @@ iputils
 jfsutils
 lib32-glu
 libreoffice-fresh
+libsynaptics
 libtool
 libvirt
 licenses
-linux
 linux-firmware
-linux-headers
+linux-lts
+linux-lts-headers
 linux-tools-meta
 logrotate
 lsof
@@ -104,6 +106,7 @@ virtualbox
 virtualbox-ext-oracle
 vlc
 vulkan-intel
+wat-git
 wget
 which
 whois
