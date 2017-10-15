@@ -21,6 +21,7 @@ gawk
 gcc
 gedit
 gettext
+gnome-keyring
 gnome-terminal
 go
 google-chrome-beta
@@ -55,9 +56,12 @@ man-db
 man-pages
 mc
 mdm-display-manager
+mercurial
+mg
 mkinitcpio
 mlocate
 msr-tools
+nano
 nasm
 net-tools
 netctl
@@ -72,8 +76,8 @@ papirus-icon-theme-git
 patch
 pciutils
 pcmciautils
+php
 pkg-config
-playonlinux
 polkit-qt5
 procps-ng
 psmisc
@@ -169,4 +173,5 @@ xorg-xvinfo
 xorg-xwd
 xorg-xwininfo
 xorg-xwud
+yasm
 youtube-dl
