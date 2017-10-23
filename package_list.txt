@@ -8,14 +8,17 @@ bison
 cinnamon
 cower
 cryptsetup
+darkplaces
 device-mapper
 dhcpcd
+dkms
 dmidecode
 emacs-nox
 emacs-python-mode
 fakeroot
 file
 findutils
+firefox-nightly
 flex
 gawk
 gcc
@@ -57,11 +60,9 @@ man-pages
 mc
 mdm-display-manager
 mercurial
-mg
 mkinitcpio
 mlocate
 msr-tools
-nano
 nasm
 net-tools
 netctl
@@ -79,6 +80,7 @@ pcmciautils
 php
 pkg-config
 polkit-qt5
+powerpill
 procps-ng
 psmisc
 pulseaudio
@@ -93,6 +95,7 @@ scrot
 sdl2_mixer
 sdl_mixer
 sed
+simplescreenrecorder
 steam
 steam-native-runtime
 sudo
@@ -103,6 +106,7 @@ tmux
 traceroute
 transmission-gtk
 ufw
+unrar
 unzip
 usbutils
 util-linux
