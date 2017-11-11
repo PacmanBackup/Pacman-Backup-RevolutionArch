@@ -3,3 +3,4 @@ extra
 community 
 multilib
 testing
+xyne
