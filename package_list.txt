@@ -1,8 +1,11 @@
 alsa-firmware
+android-file-transfer
 aria2
 asp
+autoconf
 automake
 bash-completion
+bauerbill
 binutils
 bison
 cinnamon
@@ -18,7 +21,6 @@ emacs-python-mode
 fakeroot
 file
 findutils
-firefox-nightly
 flex
 gawk
 gcc
@@ -80,7 +82,6 @@ pcmciautils
 php
 pkg-config
 polkit-qt5
-powerpill
 procps-ng
 psmisc
 pulseaudio
@@ -95,6 +96,7 @@ scrot
 sdl2_mixer
 sdl_mixer
 sed
+simple-mtpfs
 simplescreenrecorder
 steam
 steam-native-runtime
