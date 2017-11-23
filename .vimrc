@@ -7,7 +7,7 @@ call vundle#begin()
 
 " let Vundle manage Vundle required
 Plugin 'VundleVim/Vundle.vim'
-Plugin 'JulesWang/css.vim'
+
 
 
 
