@@ -66,7 +66,6 @@ mlocate
 msr-tools
 namcap
 nasm
-nemo-share
 net-tools
 netctl
 networkmanager
@@ -91,7 +90,6 @@ qemu
 qemu-launcher
 qt4
 s-nail
-samba
 scons
 screenfetch
 scrot
