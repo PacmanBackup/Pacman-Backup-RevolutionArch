@@ -61,7 +61,6 @@ make
 man-db
 man-pages
 mc
-mercurial
 mkinitcpio
 mlocate
 msr-tools
