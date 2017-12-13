@@ -1,9 +1,11 @@
 alacarte
+alsa-firmware
 asp
 aurphan
 autoconf
 automake
 bash
+bash-completion
 bauerbill
 binutils
 bison
@@ -139,6 +141,7 @@ vi
 vim
 virtualbox
 vlc
+vulkan-intel
 wget
 which
 wpa_supplicant
