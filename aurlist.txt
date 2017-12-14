@@ -1,10 +1,11 @@
 cower 17-2
 darkplaces 20140513-2
-google-chrome-beta 63.0.3239.59-1
+google-chrome-beta 63.0.3239.90-1
 gtk-theme-arc-git 663.8290cb8-1
-msr-tools 1.3-2
-numix-circle-icon-theme-git 0.r16.5a11140-1
-numix-icon-theme-git 0.r1942.8d936b293-1
+neofetch 3.3.0-1
+numix-circle-icon-theme-git 0.r19.e4a9320-1
+numix-icon-theme-git 0.r1969.ea7f2069c-1
 pacaur 4.7.10-1
-virtualbox-ext-oracle 5.2.0-1
-wat-git r25.1302640-1
+paper-icon-theme-git 753.af0296ec-1
+qemu-launcher 1.7.4-5
+steamcmd latest-2
