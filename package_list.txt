@@ -15,7 +15,6 @@ cinnamon
 coreutils
 cower
 cryptsetup
-cups
 darkplaces
 device-mapper
 dhcpcd
@@ -86,6 +85,7 @@ mc
 mdadm
 mlocate
 namcap
+nano
 nasm
 neofetch
 netctl
