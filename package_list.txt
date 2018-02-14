@@ -1,6 +1,8 @@
 alacarte
 alsa-firmware
-aqemu
+arduino
+arduino-avr-core
+arduino-docs
 asp
 aurphan
 autoconf
@@ -23,6 +25,7 @@ diffutils
 dmidecode
 dos2unix
 e2fsprogs
+ed
 emacs-nox
 emacs-python-mode
 evince
@@ -43,7 +46,6 @@ git
 glibc
 gnome-keyring
 gnome-terminal
-go
 google-chrome-beta
 gparted
 grep
@@ -54,6 +56,7 @@ gzip
 hdparm
 htop
 inetutils
+intel-ucode
 iproute2
 iputils
 jfsutils
@@ -65,10 +68,12 @@ licenses
 lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
+linux
 linux-tools-meta
 logrotate
+lsof
 lvm2
-lynx
+lzop
 m4
 make
 man-db
@@ -106,9 +111,12 @@ qemu
 qt4
 reiserfsprogs
 rsync
+ruby
+ruby-docs
 s-nail
 scons
 screenfetch
+scrot
 sed
 shadow
 steam
@@ -192,4 +200,4 @@ xorg-xwininfo
 xorg-xwud
 yasm
 youtube-dl
-zfs-linux
+zip
