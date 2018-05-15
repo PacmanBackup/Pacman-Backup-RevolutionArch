@@ -10,6 +10,8 @@ fi
 
 PS1='[\u@\h \W]\$ '
 
+export EDITOR='vim'
+
 # aliases
 alias vi='vim'
 alias ls='ls -alF --color=auto'
@@ -18,6 +20,8 @@ alias h='history'
 alias su='su -l'
 alias c='clear'
 alias e='exit'
+alias r='reset'
+alias l='logout'
 alias sdn='sudo shutdown now'
 
 # screenfetch
