@@ -18,7 +18,9 @@ Plugin 'VundleVim/Vundle.vim'
 
 Plugin 'mattn/emmet-vim'
 Plugin 'vim-scripts/c.vim'
-
+Plugin 'airblade/vim-gitgutter'
 
 call vundle#end()		" required
 filetype plugin indent on	" required
+
+:set nu
