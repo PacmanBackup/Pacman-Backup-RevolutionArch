@@ -2,8 +2,6 @@ alacarte
 alsa-firmware
 arc-gtk-theme
 archlinux-appstream-data
-arduino-avr-core
-arduino-docs
 asciidoc
 asp
 aurphan
@@ -175,7 +173,6 @@ util-linux
 vi
 vim
 virtualbox
-vis
 vlc
 wget
 which
