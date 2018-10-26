@@ -8,6 +8,7 @@
 
 (require 'package)
 (add-to-list 'package-archives ' ("melpa" . "http://melpa.org/packages/"))
+(add-to-list 'package-archives ' ("org" . "http://orgmode.org/elpa"))
 (add-to-list 'load-path "~/.emacs.d/lisp")
 
 (defvar myPackages
@@ -28,7 +29,7 @@
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
    (quote
-    (chess emamux js2-mode haskell-mode s better-defaults))))
+    (org-edna auctex php-mode chess emamux js2-mode haskell-mode s better-defaults))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

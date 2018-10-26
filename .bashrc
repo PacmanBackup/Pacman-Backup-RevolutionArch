@@ -10,7 +10,8 @@ fi
 
 PS1='[\u@\h \W]\$ '
 
-export EDITOR='vim'
+PAGER='less'
+EDITOR='vim'
 
 # aliases
 alias vi='vim'
