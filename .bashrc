@@ -15,7 +15,7 @@ EDITOR='vim'
 
 # aliases
 alias vi='vim'
-alias ls='ls -alF --color=auto'
+alias ls='ls -alFh --color=auto'
 alias dirs='dirs -v'
 alias h='history'
 alias su='su -l'
