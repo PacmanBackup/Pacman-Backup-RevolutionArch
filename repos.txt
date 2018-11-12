@@ -1,7 +1,8 @@
 core
 extra 
-community 
+community
+community-testing
 multilib
 testing
-xyne
+xyne-x86_64
 multilib-testing
