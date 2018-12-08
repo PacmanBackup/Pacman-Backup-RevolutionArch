@@ -1,5 +1,5 @@
 # Pacman-Backup-RevolutionArch
-Backup of my list of installed packages with pacman and pacaur. .bashrc, init.el, .vimrc, pacman.conf, the updates script is also archived here.
+Backup of my config files and Arch Linux package lists. 
 
 Note on the .vimrc, the plugins need to be installed into the .vim directory.
  
