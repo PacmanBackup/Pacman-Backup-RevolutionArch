@@ -24,3 +24,26 @@ call vundle#end()		" required
 filetype plugin indent on	" required
 
 :set nu
+
+set splitbelow
+set splitright
+nnoremap <C-J> <C-W><C-J>
+nnoremap <C-K> <C-W><C-K>
+nnoremap <C-L> <C-W><C-L>
+nnoremap <C-H> <C-W><C-H>
+
+au BufNewFile,BufRead *.py
+			\ set tabstop=4
+			\ set softtabstop=4
+			\ set shiftwidth=4
+			\ set textwidth=79
+			\ set expandtab
+			\ set autoindent
+			\ set fileformat=unix
+
+set encoding=utf-8
+
+au BufNewFile,BufRead *.js, *.html, *.css
+			\ set tabstop=2
+			\ set softtabstop=2
+			\ set shiftwidth=2

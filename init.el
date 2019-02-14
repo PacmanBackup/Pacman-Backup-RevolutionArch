@@ -4,11 +4,12 @@
 ;; just comment it out by adding a semicolon to the start of the line.
 ;; You may delete these explanatory comments.
 (package-initialize)
-
+(elpy-enable)
 
 (require 'package)
-(add-to-list 'package-archives ' ("melpa" . "http://melpa.org/packages/"))
-(add-to-list 'package-archives ' ("org" . "http://orgmode.org/elpa"))
+(add-to-list 'package-archives ' ("melpa" . "https://melpa.org/packages/"))
+(add-to-list 'package-archives ' ("org" . "https://orgmode.org/elpa/"))
+(add-to-list 'package-archives ' ("melpa-stable" . "https://stable.melpa.org/packages/"))
 (add-to-list 'load-path "~/.emacs.d/lisp")
 
 (defvar myPackages
@@ -29,7 +30,7 @@
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
    (quote
-    (org-edna auctex php-mode chess emamux js2-mode haskell-mode s better-defaults))))
+    (elpy sed-mode sql-indent go-mode org-edna auctex php-mode chess emamux js2-mode haskell-mode s better-defaults))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -37,5 +38,6 @@
  ;; If there is more than one, they won't work right.
  )
 
+(put 'view-lossage 'isearch-scroll t)
 
 
